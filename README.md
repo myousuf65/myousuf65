@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yousuf</h1>
 <h3 align="center">A passionate Computer Science student from Hong Kong studying currently at UOW College</h3>
 
-- 🔭 I’m have worked on my [Personal Portfolio Website](www.m-yousuf.com)
+- 🔭 I’m have worked on [a Movie Purchasing Application](https://www.m-yousuf.com/mobile.html)
+
+- 🌱 I’m currently learning **Java Spring Framework**
+
+- 👯 Using Django, I have created **a ToDo Application and a Blog site**
+
+- 🤝 I have also developed [several static webpages](https://www.m-yousuf.com/staticwebpages.html)
+
+- 👨‍💻 All of my projects are available at [www.m-yousuf.com](www.m-yousuf.com)
+
+- 💬 I have also developed Contact Management Systems **with C++ and Java**
+
+- 📫 How to reach me **work.myousuf@gmail.com**
+
+- 📄 Know about my experiences [https://www.m-yousuf.com/resume.html](https://www.m-yousuf.com/resume.html)
+
+- ⚡ Fun fact **I am a disciplined and dedicated person who is eager to learn new skills to improve his craft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

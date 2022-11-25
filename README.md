@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yousuf</h1>
-<h3 align="center">A passionate Computer Science student from Hong Kong studying currently at UOW College</h3>
+<h3 align="center">A passionate Information Systems Development student from Hong Kong studying currently at UOW College</h3>
 
 - 🔭 I’m have worked on [a Movie Purchasing Application](https://www.m-yousuf.com/mobile.html)
 

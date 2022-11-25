@@ -20,6 +20,8 @@
 - ⚡ Fun fact **I am a disciplined and dedicated person who is eager to learn new skills to improve his craft**
 
 <h3 align="left">Connect with me:</h3>
+![image](https://user-images.githubusercontent.com/72141638/203887347-b9ef771e-00ff-494c-8c58-43ff24f4d440.png)
+
 <p align="left">
 </p>
 

@@ -1,28 +1,36 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yousuf</h1>
 <h3 align="center">A passionate Information Systems Development student from Hong Kong studying currently at UOW College</h3>
+<div>
+  - 🔭 Worked as a Junior Developer at BioMed Technology Holdings Limited
+</div>
 
-- 🔭 I’m have worked on [a Movie Purchasing Application](https://www.m-yousuf.com/mobile.html)
+<br><br>
 
-- 🌱 I’m currently learning **Java Spring Framework**
 
-- 👯 Using Django, I have created **a ToDo Application and a Blog site**
+- 🌱 Worked on the following Technologies
 
-- 🤝 I have also developed [several static webpages](https://www.m-yousuf.com/staticwebpages.html)
+  1. NodeJS
+  2. React
+  3. Flask
+  4. Django
+  5. Odoo API
+  6. Notion API
+  7. OpenCV2 and Deepface
+  8. SpringBoot
+  9. Cloudflare and ngrok
 
-- 👨‍💻 All of my projects are available at [www.m-yousuf.com](www.m-yousuf.com)
 
-- 💬 I have also developed Contact Management Systems **with C++ and Java**
+- 💻 Networking Gigs
+  1. Maintainance of Network Infrastructure
+  2. Setting Up Firewall, Site-to-site VPN, Email Server, Web Hosting Server
+  3. Penetration Testing
+  4. Setting Up NAS Server
+     
 
-- 📫 How to reach me **work.myousuf@gmail.com**
-
-- 📄 Know about my experiences [https://www.m-yousuf.com/resume.html](https://www.m-yousuf.com/resume.html)
-
-- ⚡ Fun fact **I am a disciplined and dedicated person who is eager to learn new skills to improve his craft**
+- 👨‍💻 Take a look at my portfolio at [www.m-yousuf.com](www.m-yousuf.com)
 
 <h3 align="left">Connect with me:</h3>
 :email: work.myousuf@gmail.com
-
-:telephone_receiver: (852) 51093434
 
 <p align="left">
 </p>
